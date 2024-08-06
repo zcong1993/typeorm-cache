@@ -43,7 +43,7 @@
     "mysql2": "^3.0.0",
     "prettier": "^2.7.0",
     "sequelize": "^6.20.1",
-    "sequelize-typescript": "^2.1.3",
+    "sequelize-typescript": "^2.1.6",
     "ts-jest": "^29.0.0",
     "typeorm": "^0.3.6",
     "typescript": "^5.0.0"
